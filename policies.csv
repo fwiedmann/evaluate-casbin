@@ -1,0 +1,4 @@
+p, admin, user:delete
+p, reader, user:read
+
+g, 1, admin
